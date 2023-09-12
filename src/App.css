@@ -31,3 +31,33 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
+/* Produtos.css */
+.produtos-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.produtos-title {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.produtos-item {
+  display: inline-block;
+  margin: 20px;
+  text-align: center;
+}
+
+.produtos-item h2 {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.produtos-item img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #333;
+  border-radius: 10px;
+  margin-top: 10px;
+}
